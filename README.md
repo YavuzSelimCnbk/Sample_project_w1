@@ -13,5 +13,4 @@ Flutter Sürümü: 3.10.6
 Diğer Kullanılan Teknolojiler: MacBookAir
 ___
 
-© 2023 YavuzSelim CANIBEK. Tüm Hakları Saklıdır.
-
+© 2023 Adınız Soyadınız. Tüm Hakları Saklıdır.
