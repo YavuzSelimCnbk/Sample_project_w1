@@ -3,7 +3,7 @@
 
 Bu Proje, Flutter Kullanılarak yapılan Yamanevler Enderun Bilişim mobil uygulamasını içerir.
 
-![Uygulama Görseli]()
+![Uygulama Görseli](screenshot_417C2743-BE85-465F-BB48-69B8A4395EFD.png)
 
 ## Kullanılan PC Bilgileri
 
